@@ -1,0 +1,5 @@
+-e git+https://github.com/thobalose/bioservices@reactome#egg=bioservices
+biopython
+pytest
+pytest-cov
+bcbio-gff
